@@ -1,4 +1,4 @@
-# Group Project: Command Line Calculator
+# Group Project: Command Line Calculator!
 
 ## The Goal
 
